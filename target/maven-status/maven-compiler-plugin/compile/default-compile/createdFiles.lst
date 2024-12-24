@@ -1,0 +1,13 @@
+com\example\delivery2consumer\dto\OrderDiscountMessage.class
+com\example\delivery2consumer\config\RabbitMQConfiguration.class
+com\example\delivery2consumer\dto\DelivererCoordinatesMessage.class
+com\example\delivery2consumer\dto\OrderStatusUpdateMessage.class
+com\example\delivery2consumer\models\Deliverer.class
+com\example\delivery2consumer\Delivery2ConsumerApplication.class
+com\example\delivery2consumer\services\DiscountServiceCheck.class
+com\example\delivery2consumer\models\Order.class
+com\example\delivery2consumer\rabbitListener\OrderListener.class
+com\example\delivery2consumer\models\BaseEntity.class
+com\example\delivery2consumer\models\ResponseDto.class
+com\example\delivery2consumer\config\JacksonConfig.class
+com\example\delivery2consumer\models\enums\Status.class
